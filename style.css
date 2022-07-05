@@ -457,6 +457,10 @@ section .title::after {
     width: 60%;
 }
 
+.skills-content .right .bs::before {
+    width: 60%;
+}
+
 .skills-content .right .react::before {
     width: 20%;
 }
