@@ -449,7 +449,7 @@ section .title::after {
     width: 90%;
 }
 
-.skills-content .right .css, .office,.uml::before {
+.skills-content .right .css::before, .office::before,.uml::before {
     width: 80%;
 }
 
