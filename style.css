@@ -465,10 +465,6 @@ section .title::after {
     width: 20%;
 }
 
-.skills-content .right .java::before {
-    width: 20%;
-}
-
 .skills-content .right .mysql::before {
     width: 20%;
 }
