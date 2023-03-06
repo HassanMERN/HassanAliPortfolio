@@ -449,8 +449,8 @@ section .title::after {
     width: 90%;
 }
 
-.skills-content .right .css::before, .office::before,.uml::before {
-    width: 80%;
+.skills-content .right .css::before, .office::before,.java::before {
+    width: 30%;
 }
 
 .skills-content .right .js::before {
@@ -462,11 +462,19 @@ section .title::after {
 }
 
 .skills-content .right .react::before {
-    width: 20%;
+    width: 40%;
+}
+
+.skills-content .right .reactnative::before {
+    width: 35%;
+}
+
+.skills-content .right .java::before {
+    width: 35%;
 }
 
 .skills-content .right .mysql::before {
-    width: 20%;
+    width: 50%;
 }
 
 
