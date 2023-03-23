@@ -473,7 +473,7 @@ section .title::after {
     width: 35%;
 }
 
-.skills-content .right .mysql::before {
+.skills-content .right .cpp::before {
     width: 50%;
 }
 
